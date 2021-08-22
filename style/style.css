@@ -3,6 +3,7 @@ body {
   height: 100%;
   margin: 0;
   padding: 0;
+  font-family: "Noto Sans JP", sans-serif;
 }
 header {
   height: 60px;
@@ -248,7 +249,7 @@ nav {
 /*------------------footer-------------------*/
 footer {
   min-height: 300px;
-  font-size: 0.8333vw;
+  font-size: 0.5px;
   background-color: #efefef;
   padding: 50px;
 }
@@ -286,7 +287,7 @@ footer {
   text-align: left;
 }
 .footer_items th {
-  font-size: 0.8333vw;
+  font-size: 0.5px;
   font-weight: lighter;
 }
 .footer_items th:nth-child(1) {
